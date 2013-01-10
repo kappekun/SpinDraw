@@ -1,7 +1,7 @@
 SpinDraw
 ========
 
-simple Processing "drawing" application
+simple [Processing](processing.org) "drawing" application
 
 controls
 --------
